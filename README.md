@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, soy Juan Pablo</h1>
-<h3 align="center">Un candidato a PhD y científico de datos de Colombia</h3>
+<h3 align="center">Un candidato a PhD en ingeniería y científico de datos de Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesax1&label=Profile%20views&color=0e75b6&style=flat" alt="mesax1" /> </p>
 
-- 🔭 Soy consultor y desarrollador de soluciones **relacionadas con ML / Data Science / Data Analysis / Optimización y OR**
+- 🔭 Soy consultor y desarrollador de soluciones relacionadas con **ML / Data Science / Data Analysis / Optimización y OR**
 
-- 🤝 Actualmente trabajo 1/2 tiempo como **Ingeniero de desarrollo de algoritmos y optimización en RideCo**
+- 🤝 Actualmente trabajo 1/2 tiempo como **Consultor de desarrollo de algoritmos y optimización en RideCo**
 
-- 💬 Preguntame sobre **Algoritmos de ruteo de vehiculos (VRP), Metaheurísticos para optimización, Machine Learning, Ciencia de datos, Visualización y analisis de datos, Data-driven decision making.**
+- 💬 Proyectos y temas que me interesan **Algoritmos de ruteo de vehiculos (VRP) / Metaheurísticos para optimización / Machine Learning / Ciencia de datos / Visualización y análisis de datos / Data-driven decision making**
 
-- 📫 Cómo contactarme **mesax1@gmail.com**
+- 📫 Puedes contactarme en el correo **mesax1@gmail.com**
 
-- 📄 Mi CV [https://drive.google.com/file/d/1QrUt7oJY3ho_-X00nX4CuHx4aEZoWJzc/view?usp=share_link](https://drive.google.com/file/d/1QrUt7oJY3ho_-X00nX4CuHx4aEZoWJzc/view?usp=share_link)
+- 📄 Más información en mi CV [(aquí)](https://drive.google.com/file/d/1QrUt7oJY3ho_-X00nX4CuHx4aEZoWJzc/view?usp=share_link)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
