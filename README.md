@@ -9,7 +9,7 @@
 
 - 📫 You can contact me via email **mesax1@gmail.com**
 
-- 📄 More information on my CV [(here)](https://drive.google.com/file/d/1QrUt7oJY3ho_-X00nX4CuHx4aEZoWJzc/view?usp=share_link)
+<!--- - 📄 More information on my CV [(here)](https://drive.google.com/file/d/1QrUt7oJY3ho_-X00nX4CuHx4aEZoWJzc/view?usp=share_link) --->
 
 - 🌐 Visit my website at [juanpml.com](https://juanpml.com)
 
