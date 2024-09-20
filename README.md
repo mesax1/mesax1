@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Juan Pablo</h1>
-<h3 align="center">A PhD candidate in engineering and AI Engineer/Data Scientist from Colombia</h3>
+<h3 align="center">A Ph.D in Engineering and AI Engineer/Data Scientist from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesax1&label=Profile%20views&color=0e75b6&style=flat" alt="mesax1" /> </p>
 
