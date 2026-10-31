@@ -11,7 +11,8 @@
 
 <!--- - 📄 More information on my CV [(here)](https://drive.google.com/file/d/1QrUt7oJY3ho_-X00nX4CuHx4aEZoWJzc/view?usp=share_link) --->
 
-- 🌐 Visit my website at [juanpml.com](https://juanpml.com)
+- 🌐 Visit my AI services website at [majuplabs.com](https://majuplabs.com)
+- 🌐 Visit my AI engineering academy at [majuplearn.com](https://majuplearn.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
